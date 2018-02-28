@@ -1,5 +1,10 @@
 
-/**
-!/.gitignore
+#/**
+#!/.gitignore
+#!/Numpy Tutorial/
 
-!/Numpy Tutorial/
+Convolutional Neural Networks/*
+Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/*
+Neural Networks and Deep Learning/*
+Sequence Models/*
+Structuring Machine Learning Projects/*
