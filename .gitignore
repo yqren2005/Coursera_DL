@@ -6,9 +6,12 @@
 .ipynb_checkpoints
 readonly
 notebook.tar.gz
+datasets
+__pycache__
+*.py
 
 Convolutional Neural Networks/*
-Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/*
+#Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/*
 
 
 Neural Networks and Deep Learning/readonly/
