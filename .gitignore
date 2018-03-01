@@ -26,6 +26,9 @@ raw_data
 audio_examples
 data
 
-Convolutional Neural Networks/*
+*.h5
+weights
+*.tar.gz
+pretrained-model
 
-Structuring Machine Learning Projects/*
+#Structuring Machine Learning Projects/*
