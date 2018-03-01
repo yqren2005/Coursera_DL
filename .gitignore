@@ -6,37 +6,25 @@
 .ipynb_checkpoints
 readonly
 notebook.tar.gz
+test.zip
+dummy
 datasets
 __pycache__
 *.py
 
+*LICENSE
+LICENSE
+font
+model_data
+yad2k
+*.txt
+models
+*.wav
+XY_dev
+XY_train
+raw_data
+audio_examples
+
 Convolutional Neural Networks/*
-#Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/*
 
-
-Neural Networks and Deep Learning/readonly/
-Neural Networks and Deep Learning/.ipynb_checkpoints/
-Neural Networks and Deep Learning/notebook.tar.gz
-
-Neural Networks and Deep Learning/Week 2/Logistic Regression as a Neural Network/*
-!Neural Networks and Deep Learning/Week 2/Logistic Regression as a Neural Network/images
-!Neural Networks and Deep Learning/Week 2/Logistic Regression as a Neural Network/*.ipynb
-
-Neural Networks and Deep Learning/Week 2/Python Basics with Numpy/*
-!Neural Networks and Deep Learning/Week 2/Python Basics with Numpy/images
-!Neural Networks and Deep Learning/Week 2/Python Basics with Numpy/*.ipynb
-
-Neural Networks and Deep Learning/Week 3/Planar data classification with one hidden layer/*
-!Neural Networks and Deep Learning/Week 3/Planar data classification with one hidden layer/images
-!Neural Networks and Deep Learning/Week 3/Planar data classification with one hidden layer/*.ipynb
-
-Neural Networks and Deep Learning/Week 4/Building your Deep Neural Network - Step by Step/*
-!Neural Networks and Deep Learning/Week 4/Building your Deep Neural Network - Step by Step/images
-!Neural Networks and Deep Learning/Week 4/Building your Deep Neural Network - Step by Step/*.ipynb
-
-Neural Networks and Deep Learning/Week 4/Deep Neural Network Application_ Image Classification/*
-!Neural Networks and Deep Learning/Week 4/Deep Neural Network Application_ Image Classification/images
-!Neural Networks and Deep Learning/Week 4/Deep Neural Network Application_ Image Classification/*.ipynb
-
-Sequence Models/*
 Structuring Machine Learning Projects/*
