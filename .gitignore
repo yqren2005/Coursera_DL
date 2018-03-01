@@ -24,6 +24,7 @@ XY_dev
 XY_train
 raw_data
 audio_examples
+data
 
 Convolutional Neural Networks/*
 
